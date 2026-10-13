@@ -16,4 +16,4 @@ Python | Tkinter | Pandas | MySQL | Excel | Power BI
 ## Project Files
 - `project.py` – Python application code.
 - `Employee_dashboard.pbix` – Power BI dashboard.
-- `dashboard_screenshot.png.jpg` – Dashboard preview.
+- `dashboard_screenshot.png` – Dashboard preview.
