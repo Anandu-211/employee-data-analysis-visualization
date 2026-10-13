@@ -3,6 +3,10 @@
 ## Project Overview
 This project collects employee data, cleans and processes it, stores it in a MySQL database, generates Excel reports, and presents insights through a Power BI dashboard.
 
+## Dashboard Preview
+
+![Employee Data Analysis Dashboard](employee_dashboard.png)
+
 ## Modules
 - **Data Collection:** Collect employee details using Python Tkinter.
 - **Data Cleaning:** Clean and process data using Pandas.
